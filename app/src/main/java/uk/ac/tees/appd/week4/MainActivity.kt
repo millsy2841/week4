@@ -46,3 +46,5 @@ fun BCPreview() {
         GreetingText(message = "Happy Birthday bro!", from = "From bro")
     }
 }
+
+//https://developer.android.com/codelabs/basic-android-kotlin-compose-text-composables part 8 next
